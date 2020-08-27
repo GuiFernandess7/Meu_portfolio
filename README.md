@@ -4,7 +4,6 @@
   <img src="Banner 1.0.png" >
 </p>
 
-# Guilherme Fernandes
 
 I am a student in the field of data science, improving studies focusing on data analysis and organization, always seeking to understand how algorithms and codes positively impact society. I value knowledge and like to generate new ideas on various subjects. People close to me describe me as a curious and critical person, and in moments of action, I am a cautious person.
 
