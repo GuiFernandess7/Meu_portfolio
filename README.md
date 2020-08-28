@@ -14,3 +14,4 @@ Currently, I look for opportunities that allow me to use my knowledge in data an
 Projetos do Jupyter Noteboook:
 
 * **Como utilizar a Biblioteca Pandas usando Python (Básico):** https://bit.ly/3lnrbDF
+* **Análise de Dados Empresariais utilizando Pandas:** https://bit.ly/2YK6cBt
