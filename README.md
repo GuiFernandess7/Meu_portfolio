@@ -17,7 +17,7 @@ Projetos do Jupyter Noteboook:
 
 * **Como utilizar a Biblioteca Pandas usando Python (Básico):** https://bit.ly/3lnrbDF
 * **Análise de Dados Empresariais utilizando Pandas:** https://bit.ly/2YK6cBt
-* **Manipulando Arquivos PDF e Gerando Gráficos (Matplotlib):**https://bityli.com/YUwK1
+* **Manipulando Arquivos PDF e Gerando Gráficos (Matplotlib):** https://bityli.com/YUwK1
 
 
 
