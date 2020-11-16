@@ -11,12 +11,13 @@ I am a student in the field of data science, improving studies focusing on data 
 Currently, I look for opportunities that allow me to use my knowledge in data analysis to promote greater organization and efficiency in organizational environments.
 
 Linkedin: 
-Medium:
 
 ## Projetos
 Projetos do Jupyter Noteboook:
 
 * **Como utilizar a Biblioteca Pandas usando Python (Básico):** https://bit.ly/3lnrbDF
 * **Análise de Dados Empresariais utilizando Pandas:** https://bit.ly/2YK6cBt
+* **Manipulando Arquivos PDF e Gerando Gráficos (Matplotlib):**https://bityli.com/YUwK1
+
 
 
