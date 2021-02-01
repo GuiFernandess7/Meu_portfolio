@@ -4,7 +4,7 @@
   <img src="Banner 1.0.png" >
 </p>
 
-# About Me
+# Sobre mim
 
  Eu sou um desenvolvedor certificado em Python e estudante da Escola Sigmoidal de Data Science. Estou constantemente aprimorando os estudos focados em análise e ciência de dados, sempre buscando compreender como algoritimos e códigos podem gerar bons impactos na sociedade e contribuir para uma maior eficiência no ambiente de trabalho. Valorizo novos conhecimentos e gosto de criar novas idéias e formas diferentes de implementa-las.
  
