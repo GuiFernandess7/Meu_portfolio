@@ -8,7 +8,7 @@
 
 I am a student in the field of data science, improving studies focusing on data analysis and organization, always seeking to understand how algorithms and codes positively impact society. I value knowledge and like to generate new ideas on various subjects. People close to me describe me as a curious and critical person, and in moments of action, I am a cautious person.
 
-Currently, I look for opportunities that allow me to use my knowledge in data analysis to promote greater organization and efficiency in organizational environments.
+Currently, I look for opportunities that allow me to use my knowledge in data analysis in Python to promote greater organization and efficiency in organizational environments.
 
 Linkedin: 
 
