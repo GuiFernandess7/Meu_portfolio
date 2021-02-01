@@ -6,7 +6,7 @@
 
 # About Me
 
- Eu sou um desenvolvedor certificado em Python e estudante da Escola Sigmoidal de Data Science. Estou constantemente aprimorando os estudos focados em análise e ciência de dados, sempre buscando compreender como algoritimos e códigos podem gerar ótimos impactos na sociedade e contribuir para uma maior eficiência no ambiente de trabalho. Valorizo novos conhecimentos e gosto de criar novas idéias e formas diferentes de implementa-las.
+ Eu sou um desenvolvedor certificado em Python e estudante da Escola Sigmoidal de Data Science. Estou constantemente aprimorando os estudos focados em análise e ciência de dados, sempre buscando compreender como algoritimos e códigos podem gerar bons impactos na sociedade e contribuir para uma maior eficiência no ambiente de trabalho. Valorizo novos conhecimentos e gosto de criar novas idéias e formas diferentes de implementa-las.
  
  Atualmente, eu busco oportunidades que me permitam usar meus conhecimentos em análise de dados e desenvolvimentos de programas em Python para garantir eficiência em empresas.
 
