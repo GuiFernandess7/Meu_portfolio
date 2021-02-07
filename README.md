@@ -18,7 +18,7 @@ Projetos do Jupyter Noteboook:
 * **Como utilizar a Biblioteca Pandas usando Python (Básico):** https://bit.ly/3lnrbDF
 * **Análise de Dados Empresariais utilizando Pandas:** https://bit.ly/2YK6cBt
 * **Manipulando Arquivos PDF e Gerando Gráficos (Matplotlib):** https://bityli.com/YUwK1
-* **Desenvolvimento de programa com API de dados climáticos:** https://bit.ly/3teFj6h
+* **Programa com informações de dados climáticos - OpenWeather API:** https://bit.ly/3teFj6h
 * **Acessando perfil no Linkedin através de Selenium:** https://bit.ly/3pY77tL
 * **Programa de Conversão de Moedas - Exchangerate API:** https://bit.ly/2Og6ZYx
 
