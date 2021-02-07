@@ -20,5 +20,6 @@ Projetos do Jupyter Noteboook:
 * **Manipulando Arquivos PDF e Gerando Gráficos (Matplotlib):** https://bityli.com/YUwK1
 * **Desenvolvimento de programa com API de dados climáticos:** https://bit.ly/3teFj6h
 * **Acessando perfil no Linkedin através de Selenium:** https://bit.ly/3pY77tL
+* **Programa de Conversão de Moedas - Exchangerate API:** https://bit.ly/2Og6ZYx
 
 
