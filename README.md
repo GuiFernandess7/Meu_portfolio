@@ -8,6 +8,12 @@
 
  Eu sou um desenvolvedor certificado em Python e estudante da Escola Sigmoidal de Data Science. Estou constantemente aprimorando os estudos focados em análise e ciência de dados, sempre buscando compreender como algoritimos e códigos podem gerar bons impactos na sociedade e contribuir para uma maior eficiência no ambiente de trabalho. Valorizo novos conhecimentos e gosto de criar novas idéias e formas diferentes de implementa-las.
  
+ * **Habilidades:**
+ Análise de Dados em Pandas, Numpy e Matplotlib
+ Implementação de APIs e Selenium
+ Domínio em Banco de Dados SQL e NoSQL(MongoDB e Redis)
+ Scraping Python
+ 
  Atualmente, eu busco oportunidades que me permitam usar meus conhecimentos em análise de dados e desenvolvimentos de programas em Python para garantir eficiência em empresas.
 
 Linkedin: https://bit.ly/39CA7kU
