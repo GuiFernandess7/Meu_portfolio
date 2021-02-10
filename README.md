@@ -11,8 +11,8 @@
  * **Habilidades:**
  Análise de Dados em Pandas, Numpy e Matplotlib,
  Implementação de APIs e Selenium,
- Domínio em Banco de Dados SQL e NoSQL(MongoDB e Redis),
- Scraping Python.
+ Domínio em Banco de Dados SQL e NoSQL(MongoDB e Redis) e
+ Scraping em Python.
  
  Atualmente, eu busco oportunidades que me permitam usar meus conhecimentos em análise de dados e desenvolvimentos de programas em Python para garantir eficiência em empresas.
 
