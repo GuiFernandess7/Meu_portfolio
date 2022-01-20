@@ -28,4 +28,6 @@ Projetos do Google Collab:
 * **Acessando perfil no Linkedin através de Selenium:** https://bit.ly/3pY77tL
 * **Programa de Conversão de Moedas - Exchangerate API:** https://bit.ly/2Og6ZYx
 
+Projetos do Jupyter Notebook:
+
 
