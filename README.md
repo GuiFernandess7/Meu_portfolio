@@ -19,7 +19,7 @@
 Linkedin: https://bit.ly/39CA7kU
 
 ## Projetos
-Projetos do Jupyter Noteboook:
+Projetos do Google Collab:
 
 * **Como utilizar a Biblioteca Pandas usando Python (Básico):** https://bit.ly/3lnrbDF
 * **Análise de Dados Empresariais utilizando Pandas:** https://bit.ly/2YK6cBt
