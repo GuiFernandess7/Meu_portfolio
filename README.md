@@ -1,7 +1,7 @@
 ![author](https://img.shields.io/badge/author-Gui_Fernandes-red.svg) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="Banner 1.0.png" >
+  <img src="Banner 2.0.png" >
 </p>
 
 # Sobre mim
