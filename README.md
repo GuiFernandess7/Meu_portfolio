@@ -15,7 +15,7 @@
  * **Web Scraping e automação web com Selenium em Python**
  * **Análise de Dados em Python com pandas, numpy e matplotlib**
  * **Sólidos conhecimentos em HTML, CSS e JavaScript**
- * **Conhecimentos básicos em Frameworks Django e Flask**
+ * **Conhecimentos básicos em Web Frameworks Django e Flask**
  
 
 Linkedin: https://bit.ly/39CA7kU
