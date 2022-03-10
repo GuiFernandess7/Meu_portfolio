@@ -6,13 +6,15 @@
 
 # Sobre mim
 
- Eu sou um estagiário desenvolvedor certificado em Python e Java. Estou constantemente aprimorando os estudos focados em análise e ciência de dados e desenvolvimento de sistemas, sempre buscando compreender como algoritimos e códigos podem gerar bons impactos na sociedade e contribuir para uma maior eficiência no ambiente de trabalho. Valorizo novos conhecimentos e gosto de criar novas idéias e formas diferentes de implementá-las.
+ Eu sou um estudante de análise e desenvolvimento de sistemas. Desde cedo Estou constantemente aprimorando os estudos focados em análise e ciência de dados e desenvolvimento de sistemas, sempre buscando compreender como algoritimos e códigos podem gerar bons impactos na sociedade e contribuir para uma maior eficiência no ambiente de trabalho. Valorizo novos conhecimentos e gosto de criar novas idéias e formas diferentes de implementá-las.
  
- * **Habilidades:**
- Análise de Dados em Pandas, Numpy e Matplotlib,
- Implementação de APIs e Selenium,
- Domínio em Banco de Dados SQL e NoSQL(MongoDB e Redis) e
- Scraping em Python.
+ Habilidades:
+ * **Conhecimento avançado em Python 
+ * **Conhecimento intermediário em Java
+ * **Implementação de Banco de Dados (SQL Server, MySQL e Oracle)
+ * **Web Scraping e automação web com Selenium em Python
+ * **Análise de Dados em Python com pandas, numpy e matplotlib
+ * **Sólidos conhecimentos em HTML, CSS e JavaScript
  
 
 Linkedin: https://bit.ly/39CA7kU
