@@ -9,7 +9,7 @@
  Eu sou um estudante de análise e desenvolvimento de sistemas. Desde cedo Estou constantemente aprimorando os estudos focados em análise e ciência de dados e desenvolvimento de sistemas, sempre buscando compreender como algoritimos e códigos podem gerar bons impactos na sociedade e contribuir para uma maior eficiência no ambiente de trabalho. Valorizo novos conhecimentos e gosto de criar novas idéias e formas diferentes de implementá-las.
  
  Habilidades:
- * **Conhecimento avançado em Python **
+ * **Conhecimento avançado em Python**
  * **Conhecimento intermediário em Java**
  * **Implementação de Banco de Dados (SQL Server, MySQL e Oracle)**
  * **Web Scraping e automação web com Selenium em Python**
