@@ -6,7 +6,8 @@
 
 # Sobre mim
 
- Estudante de Análise de Sistemas e estagiário em desenvolvimento BackEnd em Python com plenos conhecimentos em Python e MySQL. Estou constantemente aprendendo e desenvolvendo novos projetos em desenvolvimento web utilizando Django e Flask com implementação de API's REST. Desde o tempo de colégio me interesso pelo campo da tecnologia e tenho uma grande curiosidade por aprender conceitos e técnicas novas. Ao ser introduzido em python, meu gosto pela programação aumentou ainda mais.
+ Estudante de Análise de Sistemas e estagiário em desenvolvimento BackEnd em Python com plenos conhecimentos em Python e MySQL. Estou constantemente aprendendo e desenvolvendo novos projetos em desenvolvimento web utilizando Django e Flask com implementação de API's REST. Desde o tempo de colégio me interesso pelo campo da tecnologia e tenho uma grande curiosidade por aprender conceitos e técnicas novas. Ao ser introduzido em python, meu gosto pela programação aumentou ainda mais. Possuo também sólidos conhecimentos em análise de dados utilizando bibliotecas como Pandas, Numpy e Matplotlib e automação web com Selenium e Scraping.
+ 
  
  Habilidades:
  * **Conhecimento avançado em Python**
@@ -14,7 +15,7 @@
  * **Implementação de Banco de Dados (SQL Server, MySQL e Oracle)**
  * **Web Scraping e automação web com Selenium em Python**
  * **Análise de Dados em Python com pandas, numpy e matplotlib**
- * **Sólidos conhecimentos em HTML, CSS e JavaScript**
+ * **Básicos conhecimentos em HTML, CSS e JavaScript**
  * **Conhecimentos básicos em Web Frameworks Django e Flask**
  
 
