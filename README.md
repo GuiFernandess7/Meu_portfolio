@@ -6,7 +6,7 @@
 
 # Sobre mim
 
- Eu sou um estudante de análise e desenvolvimento de sistemas. Desde cedo Estou constantemente aprimorando os estudos focados em análise e ciência de dados e desenvolvimento de sistemas, sempre buscando compreender como algoritimos e códigos podem gerar bons impactos na sociedade e contribuir para uma maior eficiência no ambiente de trabalho. Valorizo novos conhecimentos e gosto de criar novas idéias e formas diferentes de implementá-las.
+ Estudante de Análise de Sistemas e estagiário em desenvolvimento BackEnd em Python com plenos conhecimentos em Python e MySQL. Estou constantemente aprendendo e desenvolvendo novos projetos em desenvolvimento web utilizando Django e Flask com implementação de API's REST. Desde o tempo de colégio me interesso pelo campo da tecnologia e tenho uma grande curiosidade por aprender conceitos e técnicas novas. Ao ser introduzido em python, meu gosto pela programação aumentou ainda mais.
  
  Habilidades:
  * **Conhecimento avançado em Python**
