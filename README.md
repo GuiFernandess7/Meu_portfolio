@@ -24,8 +24,7 @@ Linkedin: https://bit.ly/39CA7kU
 ## Projetos
 Projetos do Google Collab:
 
-* **Como utilizar a Biblioteca Pandas usando Python (Básico):** https://bit.ly/3lnrbDF
-* **Análise de Dados Empresariais utilizando Pandas:** https://bit.ly/2YK6cBt
+* **Como utilizar a Biblioteca Pandas:** https://bit.ly/3BhzHxY
 * **Análise de Dados Geopolíticos e Sociais (Pandas e Plotly):** 
 
 
