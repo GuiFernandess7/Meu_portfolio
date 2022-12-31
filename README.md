@@ -25,7 +25,7 @@ Linkedin: https://bit.ly/39CA7kU
 Projetos do Google Collab:
 
 * **Como utilizar a Biblioteca Pandas:** https://bit.ly/3BhzHxY
-* **Análise de Dados Geopolíticos e Sociais (Pandas e Plotly):** https://github.com/GuiFernandess7/Analise-Dados-Geopoliticos-Sociais/blob/main/notebook/An%C3%A1lise%20de%20Dados%20Geopol%C3%ADticos%20e%20Sociais%20.ipynb
+* **Análise de Dados Geopolíticos e Sociais (Pandas e Plotly):** https://bit.ly/3WBETFp
 
 
 
