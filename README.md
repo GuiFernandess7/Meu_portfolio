@@ -26,9 +26,5 @@ Projetos do Google Collab:
 
 * **Como utilizar a Biblioteca Pandas:** https://bit.ly/3BhzHxY
 * **Análise de Dados Geopolíticos e Sociais (Pandas e Plotly):** https://bit.ly/3WBETFp
-
-
-
-
 --------------------------------------------------------------------
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
