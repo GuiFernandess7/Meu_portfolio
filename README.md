@@ -4,27 +4,29 @@
   <img src="Banner 2.0.png" >
 </p>
 
-# Sobre mim
+# About Me
 
- Estudante de Análise de Sistemas e estagiário em desenvolvimento BackEnd em Python com plenos conhecimentos em Python e MySQL. Estou constantemente aprendendo e desenvolvendo novos projetos em desenvolvimento web utilizando Django e Flask com implementação de API's REST. Desde o tempo de colégio me interesso pelo campo da tecnologia e tenho uma grande curiosidade por aprender conceitos e técnicas novas. Ao ser introduzido em python, meu gosto pela programação aumentou ainda mais. Possuo também sólidos conhecimentos em análise de dados utilizando bibliotecas como Pandas, Numpy e Matplotlib e automação web com Selenium e Scraping.
- 
- 
- Conhecimentos:
- * **Conhecimento avançado em Python**
- * **Conhecimento intermediário em Java**
- * **Implementação de Banco de Dados (SQL Server, MySQL e Oracle)**
- * **Web Scraping e automação web com Selenium em Python**
- * **Análise de Dados em Python com pandas, numpy e matplotlib**
- * **Básicos conhecimentos em HTML, CSS e JavaScript**
- * **Conhecimentos avançado em Web Frameworks Django e Flask**
- 
+ As a Python back-end developer and data science enthusiast, my experience includes:
 
-Linkedin: https://bit.ly/39CA7kU
+ - Provided support for the implementation of industrial air purifiers, utilizing MicroPython, ESP32, and Arduino technologies during the software development process.
 
-## Projetos
+ - Helped in the development of IoT and software solutions for georeferenced data visualization and data processing in the agricultural sector, serving audiences that included clients and other stakeholders.
+
+ - Assisted the team in the development of web applications and software solutions dedicated to georeferenced data visualization and efficient data processing within the agricultural sector, utilizing tools and software like Big Query, Pandas, and Matplotlib.
+
+ - Acquired knowledge related to deploying applications in the cloud using Google Cloud, specifically Google Cloud Run, and Firebase for NoSQL storage.
+
+ - Contributed to the development of automating processes focused on capturing large volumes of data and developing APIs using QGIS for geographic data analysis.
+
+ I have hands-on experience with Back-End frameworks for developing web applications and implementing REST APIs, namely Django, Django Rest Framework and FastAPI. My proficiency extends to database management systems, where I commonly use MySQL as the primary relational database and Firebase as the manager for non-relational SQL databases (NoSQL).
+
+Currently, I have been specializing in computer vision and creating projects that involve backend and machine learning. 
+
+## Projects
 Projetos do Google Collab:
 
-* **Como utilizar a Biblioteca Pandas:** https://bit.ly/3BhzHxY
-* **Análise de Dados Geopolíticos e Sociais (Pandas e Plotly):** https://bit.ly/3WBETFp
+* **Como utilizar a Biblioteca Pandas | How to use pandas library:** https://bit.ly/3BhzHxY
+* **Multidimensional Temporal Analysis: Demographic Trends, Digitalization and Sustainability** https://bit.ly/3WBETFp
 --------------------------------------------------------------------
 
+More on linkedin: https://bit.ly/39CA7kU
