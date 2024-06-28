@@ -23,10 +23,8 @@
 Currently, I have been specializing in computer vision and creating projects that involve backend and machine learning. 
 
 ## Projects
-Projetos do Google Collab:
+Google Collab:
 
-* **Como utilizar a Biblioteca Pandas | How to use pandas library:** https://bit.ly/3BhzHxY
+* **How to use Pandas | How to use pandas library:** https://bit.ly/3BhzHxY
 * **Multidimensional Temporal Analysis: Demographic Trends, Digitalization and Sustainability** https://bit.ly/3WBETFp
 --------------------------------------------------------------------
-
-More on linkedin: https://bit.ly/39CA7kU
